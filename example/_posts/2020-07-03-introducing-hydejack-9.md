@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Introducing ZLCI
-image: 
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
   ZL Media 실손보험 확인 프로그램 설명
   1.
@@ -10,10 +8,7 @@ description: >
 sitemap: false
 ---
 
-Version 9 is the most complete version of Hydejack yet.
 {:.lead}
-
-[Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 - Table of Contents
 {:toc .large-only}
