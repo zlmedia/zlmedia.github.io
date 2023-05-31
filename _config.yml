@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             About ZLCI
     url:               /example/
-  - title:             Documentation
+  - title:             Installation Manual
     url:               /docs/
-  - title:             About
+  - title:             ZLCI Download
     url:               /about/
 
 # Add links to the footer.
