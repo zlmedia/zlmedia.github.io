@@ -17,16 +17,15 @@ url:                   https://zlmedia.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 ZL media Check Insurance
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  한의원 고객용 실손 보험 커버리지 확인 프로그램.
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
