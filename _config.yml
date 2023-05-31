@@ -28,7 +28,7 @@ description:           >
   한의원 고객용 실손 보험 커버리지 확인 프로그램.
 
 # A shorter description for the sidebar.
-tagline:                Kiosk Program for Checking Insurance-Coverage
+tagline:                한의원 실손 확인 키오스크 프로그램
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About ZLCI
+  - title:             프로그램 설명
     url:               /about/
-  - title:             Installation Manual
+  - title:             설치 매뉴얼
     url:               /docs/
-  - title:             ZLCI Download
+  - title:             다운로드
     url:               /example/
 
 # Add links to the footer.
