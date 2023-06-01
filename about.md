@@ -17,7 +17,7 @@ redirect_from:
 즐미디어에서 제공하는 키오스크 프로그램으로 환자가 간편하게 자신의 실손 보험 적용 여부를 확인할 수 있습니다.  
 
 
-![kiosk](assets/img/kiosk1.jpg){:.lead width="1000" height="1000" loading="lazy"}
+![kiosk](assets/img/kiosk1.jpg){: width="500" height="500" loading="lazy"}
 
 ZL Insure가 설치된 키오스크 
 {:.figcaption}
@@ -26,7 +26,7 @@ ZL Insure가 설치된 키오스크
 >**ZL Insure** 프로그램은 설치가 매우 간단하며 초기 설치 비용이 들지 않습니다. 윈도우 기반 키오스크 혹은 터치스크린이 내장된 윈도우 기기, 노트북 등에서 모두 실행가능하며 유지보수가 쉽습니다.
 
 ## Installation
->설치 프로그램 다운로드 및 설치 과정. — A [download], [manual].
+>설치 프로그램 다운로드 및 설치 과정. — [download], [manual].
 {:.lead}
 
 
