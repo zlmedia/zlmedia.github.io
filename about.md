@@ -25,6 +25,9 @@ redirect_from:
 ZL Insure가 설치된 키오스크 
 {:.figcaption}
 
+![insure](assets/img/insure1.jpg){:width="400" height="225" loading="lazy"}
+![insure](assets/img/insure2.jpg){:width="400" height="225" loading="lazy"}
+![insure](assets/img/insure3.jpg){:width="400" height="225" loading="lazy"}
 
 >**ZL Insure** 프로그램은 설치가 매우 간단하며 초기 설치 비용이 들지 않습니다. 윈도우 기반 키오스크 혹은 터치스크린이 내장된 윈도우 기기, 노트북 등에서 모두 실행가능하며 유지보수가 쉽습니다.
 
