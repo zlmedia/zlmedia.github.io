@@ -20,7 +20,7 @@ url:                   https://zlmedia.github.io
 lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 ZL media Check Insurance
+title:                 ZL media Insure
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About ZLCI
+  - title:             About ZL Insure
     url:               /about/
   - title:             Installation Manual
     url:               /docs/
-  - title:             ZLCI Download
+  - title:             ZL Insure Download
     url:               /example/
 
 # Add links to the footer.
