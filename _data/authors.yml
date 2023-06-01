@@ -8,11 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    ZL Insurance는 한의원을 위한 실손 보험 확인 키오스크 프로그램입니다. 내원환자가 자신이 가지고 있는 보험이 한의원에 적용되는지 바로 확인할 수 있어,
+    실손 보험 적용을 통해 매출 증대에 도움이 됩니다.
     
-    Open `_data/authors.yml` to edit this text.
+  
 
   # This photo will be used in the about section
   picture:
