@@ -20,7 +20,7 @@ redirect_from:
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/kiosk1.jpg){:.lead width="500" height="500" loading="lazy"}
+![Screenshot](assets/img/kiosk1.jpg){:.lead width="500" height="500" loading="lazy"} 
 
 키오스크 적용 예 
 {:.figcaption}
