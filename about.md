@@ -20,7 +20,7 @@ redirect_from:
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/kiosk1.jpg){:.lead width="1000" height="1000" loading="lazy"}
+![Screenshot](assets/img/kiosk1.jpg){:.lead width="500" height="500" loading="lazy"}
 
 키오스크 적용 예 
 {:.figcaption}
@@ -28,13 +28,11 @@ redirect_from:
 
 **ZL Insure** 프로그램은 설치가 매우 간단하며 초기 설치 비용이 들지 않습니다. 윈도우 기반 키오스크 혹은 터치스크린이 내장된 윈도우 기기, 노트북 등에서 모두 실행가능하며 유지보수가 쉽습니다.
 
-
+## Installation
 >설치 프로그램 및 설치 과정은 다음에서 볼수 있습니다. — A [download], [manual].
 {:.lead}
 
 
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
 
 
 [download]: https://github.com/zlmedia/ZLInsure-Production/releases
