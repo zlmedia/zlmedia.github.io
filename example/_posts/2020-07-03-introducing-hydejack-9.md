@@ -14,5 +14,5 @@ sitemap: false
 ## Ready for Loss Insurance 
 
 설명
-
+![kiosk](/assets/img/kiosk1.jpg)
 
