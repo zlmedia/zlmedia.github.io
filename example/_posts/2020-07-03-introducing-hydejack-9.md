@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Introducing ZL Insure
+title: Introducing ZL Media
 description: 
-  ZL Media 실손보험 확인 키오스크 프로그램
+  ZL Media 설명
 sitemap: false
 ---
+about:             |
+  즐미디어는 한의원에 특화된 광고, 미디어 요소를 개발하는 회사로서, 질환 중심의 전문 블로그 광고와 원내 매출 증대를 위한 보험 검색 프로그램인 ZL Insure 등을 운영하고 있습니다.
+ 
+picture:
+    path:            /assets/img/logo2.png
 
-{:.lead}
+Contact: 
 
-
-
-## 실손 보험 확인 키오스크 
-
-![kiosk](/assets/img/kiosk1.jpg)
 
