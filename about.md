@@ -1,9 +1,8 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/kiosk1.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+ 키오스크 프로그램 설명.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,15 +12,15 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## ZL Insure
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+즐미디어에서 제공하는 키오스크 프로그램으로 환자가 간편하게 자신의 실손 보험 적용 여부를 확인할 수 있습니다.  
 {:.lead}
 
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](assets/img/kiosk1.jpg){:.lead width="1000" height="1000" loading="lazy"}
 
 Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}
