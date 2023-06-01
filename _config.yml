@@ -80,7 +80,7 @@ paginate_path:         /:num/
 
 #theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
-favicon: /assets/icons/favicon.ico
+favicon: /assets/img/icons/favicon.ico
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
