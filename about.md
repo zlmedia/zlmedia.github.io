@@ -17,10 +17,7 @@ redirect_from:
 즐미디어에서 제공하는 키오스크 프로그램으로 환자가 간편하게 자신의 실손 보험 적용 여부를 확인할 수 있습니다.  
 
 
-1. this list will be replaced by the toc
-{:toc .large-only}
-
-![Screenshot](assets/img/kiosk1.jpg){:.lead width="250" height="250" loading="lazy"}
+![kiosk](assets/img/kiosk1.jpg){:.lead width="250" height="250" loading="lazy"}
 
 키오스크 적용 예 
 {:.figcaption}
