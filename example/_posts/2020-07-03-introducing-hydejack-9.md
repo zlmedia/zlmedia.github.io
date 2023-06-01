@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: Introducing ZL Media
 description: 
   ZL Media 설명
