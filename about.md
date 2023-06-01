@@ -17,7 +17,7 @@ redirect_from:
 즐미디어에서 제공하는 키오스크 프로그램으로 환자가 간편하게 자신의 실손 보험 적용 여부를 확인할 수 있습니다.  
 
 
-![kiosk](assets/img/kiosk1.jpg){: width="500" height="500" loading="lazy"}
+![kiosk](assets/img/kiosk1.jpg){:.lead width="1000" height="1000" loading="lazy"}
 
 ZL Insure가 설치된 키오스크 
 {:.figcaption}
