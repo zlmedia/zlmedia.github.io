@@ -20,7 +20,7 @@ redirect_from:
 차후 특약 사항까지 모두 확인 가능한 프리미엄 상품도 출시 예정에 있습니다.
 
 
-![kiosk](assets/img/kiosk1.jpg){:.lead width="1000" height="1000" loading="lazy"}
+![kiosk](assets/img/kiosk1.jpg){:.lead width="1000" height="867" loading="lazy"}
 
 ZL Insure가 설치된 키오스크 
 {:.figcaption}
