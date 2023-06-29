@@ -32,7 +32,8 @@ ZL Insure가 설치된 키오스크
 >**ZL Insure** 프로그램은 설치가 매우 간단하며 초기 설치 비용이 들지 않습니다. 윈도우 기반 키오스크 혹은 터치스크린이 내장된 윈도우 기기, 노트북 등에서 모두 실행가능하며 유지보수가 쉽습니다.
 
 ## Installation
-><span style= "background-color: #FFFCB0"><b>설치 설명서 및 가격 안내</b> </span>[manual]<br>
+><span style= "background-color: #FFFCB0"><b>설치 설명서</b> </span>[manual]<br>
+><span style= "background-color: #FFFCB0"><b>데스크 메뉴얼</b> </span>[desk_manual]<br>
 ><span style= "background-color: #FFFCB0"><b> 프로그램 다운로드 </b></span>[download]
 {:.lead}
 
@@ -41,3 +42,4 @@ ZL Insure가 설치된 키오스크
 
 [download]: https://github.com/zlmedia/ZLInsure-Production/releases
 [manual]: https://docs.google.com/document/d/1nnQTHVevSUBh4iQwa1dcyCh-Nk2SCCNtbYea-iYFZMQ/edit#heading=h.ywzfnmzave1t
+[desk_manual]: https://docs.google.com/document/d/1LTN_VKbKApZbLhGQdIxwHMzg_eBd9gACV7HUkjvNb2I/edit#heading=h.t5hzr55hv43j
