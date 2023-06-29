@@ -52,6 +52,8 @@ menu:
     url:               /about/
   - title:             사용설명서
     url:               https://docs.google.com/document/d/1nnQTHVevSUBh4iQwa1dcyCh-Nk2SCCNtbYea-iYFZMQ/edit#
+  - title:             데스크 메뉴얼
+    url:               https://docs.google.com/document/d/1LTN_VKbKApZbLhGQdIxwHMzg_eBd9gACV7HUkjvNb2I/edit#heading=h.t5hzr55hv43j
   - title:             ZL Insure 다운로드
     url:               https://github.com/zlmedia/ZLInsure-Production/releases
 
