@@ -25,7 +25,7 @@ hide_description: true
 ![kiosk](assets/img/kiosk1.jpg){:.lead width="1000" height="867" loading="lazy"}
 
 ZL Insure가 설치된 키오스크 
-{:.figcaption}
+{:.figcaption} 
 
 ![insure](assets/img/insure1.png){:.lead width="1000" height="718" loading="lazy"}
 ![insure](assets/img/insure2.png){:.lead width="1000" height="680" loading="lazy"}
