@@ -1,5 +1,5 @@
-
-# 즐미디어(유) 개인정보처리방침
+![logo](https://www.zlmedia.com/assets/img/logo2.png){:.lead width="128" height="128" loading="lazy"} 즐미디어 유
+# 즐미디어(유) 개인정보처리방침 
 
 ## 개인(신용)정보의 수집 및 이용 등에 관한 동의
 <hr/>
