@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ZLMedia
+title: ZLMedia 즐미디어(유)
 description: >
   The official ZL media Insurance page.
 last_modified_at: 2023-06-01
