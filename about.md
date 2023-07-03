@@ -1,5 +1,6 @@
 ---
 layout: about
+title: 즐미디어(유)About
 image: /assets/img/kiosk1.jpg
 description: >
  키오스크 프로그램 설명.
